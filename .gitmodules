@@ -1,0 +1,12 @@
+[submodule "np4-socks4"]
+	path = np4-socks4
+	url = git@github.com:cysun0226/np4-socks4.git
+[submodule "np3-http_cgi"]
+	path = np3-http_cgi
+	url = git@github.com:cysun0226/np3-http_cgi.git
+[submodule "np2-chatroom"]
+	path = np2-chatroom
+	url = git@github.com:cysun0226/np2-chatroom.git
+[submodule "np1-npshell"]
+	path = np1-npshell
+	url = git@github.com:cysun0226/np1-npshell.git
